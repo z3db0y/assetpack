@@ -1,0 +1,8 @@
+{
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "jsonpack": "^1.1.5",
+    "mime": "^3.0.0"
+  }
+}
